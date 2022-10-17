@@ -48,6 +48,16 @@ header {
     outline: none;
 }
 
+header .form .submit:hover {
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+
+  header ul li a:hover {
+    color: var(--col-light-blue);
+  font-weight: 700;
+}
+
 .fa-search{
     margin: auto;
 }
